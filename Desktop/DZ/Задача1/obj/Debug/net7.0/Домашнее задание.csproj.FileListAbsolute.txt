@@ -1,0 +1,30 @@
+/Users/renat/Desktop/Домашнее задание/bin/Debug/net7.0/Домашнее задание
+/Users/renat/Desktop/Домашнее задание/bin/Debug/net7.0/Домашнее задание.deps.json
+/Users/renat/Desktop/Домашнее задание/bin/Debug/net7.0/Домашнее задание.runtimeconfig.json
+/Users/renat/Desktop/Домашнее задание/bin/Debug/net7.0/Домашнее задание.dll
+/Users/renat/Desktop/Домашнее задание/bin/Debug/net7.0/Домашнее задание.pdb
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.csproj.AssemblyReference.cache
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.AssemblyInfoInputs.cache
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.AssemblyInfo.cs
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.dll
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/refint/Домашнее задание.dll
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.pdb
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/Домашнее задание.genruntimeconfig.cache
+/Users/renat/Desktop/Домашнее задание/obj/Debug/net7.0/ref/Домашнее задание.dll
+/Users/renat/Desktop/DZ/Задача1/bin/Debug/net7.0/Домашнее задание
+/Users/renat/Desktop/DZ/Задача1/bin/Debug/net7.0/Домашнее задание.deps.json
+/Users/renat/Desktop/DZ/Задача1/bin/Debug/net7.0/Домашнее задание.runtimeconfig.json
+/Users/renat/Desktop/DZ/Задача1/bin/Debug/net7.0/Домашнее задание.dll
+/Users/renat/Desktop/DZ/Задача1/bin/Debug/net7.0/Домашнее задание.pdb
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.csproj.AssemblyReference.cache
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.AssemblyInfoInputs.cache
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.AssemblyInfo.cs
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.dll
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/refint/Домашнее задание.dll
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.pdb
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/Домашнее задание.genruntimeconfig.cache
+/Users/renat/Desktop/DZ/Задача1/obj/Debug/net7.0/ref/Домашнее задание.dll
