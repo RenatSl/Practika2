@@ -1,0 +1,15 @@
+/Users/renat/Desktop/DZ/Задача2/bin/Debug/net7.0/Задача2
+/Users/renat/Desktop/DZ/Задача2/bin/Debug/net7.0/Задача2.deps.json
+/Users/renat/Desktop/DZ/Задача2/bin/Debug/net7.0/Задача2.runtimeconfig.json
+/Users/renat/Desktop/DZ/Задача2/bin/Debug/net7.0/Задача2.dll
+/Users/renat/Desktop/DZ/Задача2/bin/Debug/net7.0/Задача2.pdb
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.csproj.AssemblyReference.cache
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.AssemblyInfoInputs.cache
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.AssemblyInfo.cs
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.dll
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/refint/Задача2.dll
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.pdb
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/Задача2.genruntimeconfig.cache
+/Users/renat/Desktop/DZ/Задача2/obj/Debug/net7.0/ref/Задача2.dll
