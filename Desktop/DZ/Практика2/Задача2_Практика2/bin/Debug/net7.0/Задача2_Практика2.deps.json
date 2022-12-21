@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача2_Практика2/1.0.0": {
+        "runtime": {
+          "Задача2_Практика2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача2_Практика2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

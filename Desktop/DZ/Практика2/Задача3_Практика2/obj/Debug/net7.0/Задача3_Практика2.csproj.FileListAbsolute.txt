@@ -1,0 +1,15 @@
+/Users/renat/Desktop/DZ/Задача3_Практика2/bin/Debug/net7.0/Задача3_Практика2
+/Users/renat/Desktop/DZ/Задача3_Практика2/bin/Debug/net7.0/Задача3_Практика2.deps.json
+/Users/renat/Desktop/DZ/Задача3_Практика2/bin/Debug/net7.0/Задача3_Практика2.runtimeconfig.json
+/Users/renat/Desktop/DZ/Задача3_Практика2/bin/Debug/net7.0/Задача3_Практика2.dll
+/Users/renat/Desktop/DZ/Задача3_Практика2/bin/Debug/net7.0/Задача3_Практика2.pdb
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.csproj.AssemblyReference.cache
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.AssemblyInfoInputs.cache
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.AssemblyInfo.cs
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.dll
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/refint/Задача3_Практика2.dll
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.pdb
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/Задача3_Практика2.genruntimeconfig.cache
+/Users/renat/Desktop/DZ/Задача3_Практика2/obj/Debug/net7.0/ref/Задача3_Практика2.dll
